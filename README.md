@@ -6,4 +6,4 @@
 
 📊 ML & Data Science: Python, Numpy, Pandas, Scikit-Learn, Matplotlib, TensorFlow.
 
-🚀 Always learning, always building. Let's create something awesome together!
+🚀 Always learning, always building. Let's create something awesome together
