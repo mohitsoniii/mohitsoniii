@@ -1,8 +1,9 @@
 # 👋 Hi, I am Mohit Soni...
 
-## A versatile Front-End Developer, Data Science & ML enthusiast. I craft sleek web interfaces and turn data into actionable insights.
+## A passionate Backend Developer with a knack for building efficient systems and exploring front-end design.
 
-🌐 Front-End: HTML, CSS, JavaScript, React, Django, Bootstrap.
+🌐 Backend: JavaScript, Node.js, Express.js.
+🎨 Front-End: HTML, CSS, JavaScript.
 
 📊 ML & Data Science: Python, Numpy, Pandas, Scikit-Learn, Matplotlib, TensorFlow.
 
